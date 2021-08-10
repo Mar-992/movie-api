@@ -1,0 +1,8 @@
+{
+    "movies":{
+        "api_key":"..."
+    },
+    "service":{
+        "port":"9001"
+    }
+}
